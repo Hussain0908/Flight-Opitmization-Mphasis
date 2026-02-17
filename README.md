@@ -34,9 +34,6 @@ In addition to the quantum-based solution, a classical solution is also provided
 - **Classical Benchmarking**: Provides a classical baseline to evaluate the quantum solution's performance.
 - **Scalable**: Designed to handle large datasets and complex airline scheduling problems.
 
-## Example Results and Visualization
-
-Once the optimization is complete, you can visualize the comparison between the **Quantum Annealing** and **Classical Optimization** approaches. The following table and chart illustrate the **CVM Score** and **Re-accommodation Score** for impacted passengers and the corresponding flight assignments.
 
 ### Sample Data (Output)
 
